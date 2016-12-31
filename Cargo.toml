@@ -1,0 +1,9 @@
+[package]
+name = "diesel_postgis"
+version = "0.1.0"
+authors = ["Stephen Becker IV <github@deathbyescalator.com>"]
+description = "Adds support for PostgreSQL Postgissearch to Diesel"
+license = "MIT"
+
+[dependencies]
+diesel = ">= 0.5.0, < 0.10.0"
